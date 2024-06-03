@@ -1,0 +1,6 @@
+﻿  quiz.c
+C:\Users\student\source\repos\kosarkaSolution\kosarkaProject\quiz.c(33,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\student\source\repos\kosarkaSolution\kosarkaProject\quiz.c(49,16): warning C4013: 'postaviPitanja' undefined; assuming extern returning int
+C:\Users\student\source\repos\kosarkaSolution\kosarkaProject\quiz.c(54,13): error C2371: 'postaviPitanja': redefinition; different basic types
+C:\Users\student\source\repos\kosarkaSolution\kosarkaProject\quiz.c(62,9): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\student\source\repos\kosarkaSolution\kosarkaProject\quiz.c(63,22): warning C4013: 'provjeriOdgovor' undefined; assuming extern returning int
